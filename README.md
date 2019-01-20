@@ -660,7 +660,7 @@ _ = ax.set_xticklabels(dates[12::24], rotation=45)
     
 
 
-![png](./images/output_24_1.png)
+![png](.images/output_24_1.png)
 
 
 ## OPTIONAL: Thinking about your results(this question will not be evaluated in the rubric).
